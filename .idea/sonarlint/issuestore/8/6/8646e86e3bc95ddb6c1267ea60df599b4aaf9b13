@@ -1,0 +1,14 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÔ›×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áç–‰
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²«…½8üˆìõš0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ8ıˆìõš0
+J
+java:S6212"/Declare this local variable with "var" instead.(Ç·Ì°úÿÿÿÿ
+[
+java:S2133"@Remove this object instantiation and use "Person.class" instead.(Ç·Ì°úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Õ²óø8¡èğõš0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û‘¤8¡èğõš0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ8ÍÍóõš0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÔËƒüÿÿÿÿ8‡³ôõš0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚§ĞŸ8«äôõš0

@@ -1,0 +1,24 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®Õö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûŒà‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²…Ù·øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ë¹Ğÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïç°œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª×õ¤üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÕŸøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( İ³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôæ­ê
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œƒ’¦ıÿÿÿÿ8ÜáÏöš0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÄÈíŒşÿÿÿÿ8†¿Õöš0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆ÷°‰øÿÿÿÿ8§ÇÚöš0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(”¦ÂŞøÿÿÿÿ8§ÇÚöš0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¤ü»‹úÿÿÿÿ8¸¢ßöš0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(€ƒÛ¡şÿÿÿÿ8Õáöš0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ËËöÓ8Õáöš0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(–ÁØÖüÿÿÿÿ8Õáöš0
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(»X8ù„æöš0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(„†©œşÿÿÿÿ8ù„æöš0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(æ”àŒúÿÿÿÿ8ú„æöš0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(­ Öåøÿÿÿÿ8„ìöš0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(õçÒúÿÿÿÿ8„ìöš0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ôı¦úÿÿÿÿ8…ìöš0

@@ -1,0 +1,22 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éöñşÿÿÿÿ
+V
+java:S1854":Remove this useless assignment to local variable "person".(­Ó¡>8´««úš0
+Z
+java:S1854"8Remove this useless assignment to local variable "hema".(œäØéüÿÿÿÿ8İƒ¤úš0
+a
+java:S2147"DCombine this catch with the one at line 16, which has the same body.(Å¡ß8áƒ¤úš0
+K
+java:S6212"/Declare this local variable with "var" instead.(­Ó¡>8µ««úš0
+O
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(­Ó¡>8µ««úš0
+I
+java:S3011",This accessibility update should be removed.(”İÙ®8áƒ¤úš0
+a
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(Å¡ß8·««úš0
+a
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(åşáÿ8áƒ¤úš0
+G
+java:S1481"+Remove this unused "person" local variable.(­Ó¡>8¸««úš0
+K
+java:S1481")Remove this unused "hema" local variable.(œäØéüÿÿÿÿ8ìƒ¤úš0
